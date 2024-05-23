@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is Frakware Studio public github page. 
-This is where are playtest and other open source project will exist
+This is where are all of the playtest and other open source project will exist
 <!--
 
 **Here are some ideas to get you started:**
